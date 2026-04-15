@@ -1,16 +1,48 @@
-# React + Vite
+# DigiTools - Digital Tools Buying Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+DigiTools is a modern digital tools marketplace where users can explore premium tools, add them to a cart, and manage their selections easily. The project focuses on providing a clean user interface and smooth user experience using React and modern UI tools.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- Tailwind CSS
+- DaisyUI
+- JavaScript (ES6+)
+- React Toastify
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+1. Add to Cart and Remove Functionality  
+   Users can add products to the cart and remove them whenever they want.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Toast Notifications  
+   The system provides real-time feedback using notifications when a product is added, removed, or when checkout is completed.
+
+3. Dynamic Cart System  
+   The cart updates dynamically, showing total price and product count instantly.
+
+---
+
+## Live Links
+GitHub Repository:  
+https://github.com/GalibDev/digitools  
+
+Live Site (GitHub Pages):  
+https://galibdev.github.io/digitools/  
+
+Live Site (Netlify):  
+https://scintillating-centaur-93eafb.netlify.app  
+
+---
+
+## Responsive Design
+The website is fully responsive and works properly across mobile, tablet, and desktop devices.
+
+---
+
+## Author
+Galib Dev
